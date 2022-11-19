@@ -13,9 +13,15 @@
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nicholas-siaw-8824a6175/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nicholas-siaw-8824a6175//#gh-dark-mode-only)
+
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ayequill/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ayequill/#gh-dark-mode-only)
+
+&nbsp;&nbsp;
+[![website](./img/twitter-dark.svg)](https://twitter.com/ayequill//#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ayequill//#gh-light-mode-only)
+
 
 ### Languages Resources and Tools:
 
