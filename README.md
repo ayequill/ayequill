@@ -17,8 +17,8 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ayequill/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ayequill/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/ayequill//#gh-dark-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ayequill//#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ayequill/#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ayequill/#gh-light-mode-only)
 
 
 ### Languages Resources and Tools:
