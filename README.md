@@ -1,4 +1,3 @@
-
 # Hello, I'm Nick! 👋🤍
 
 ### I'm a Network Technician, an aspiring front-end developer and a passionate learner!!
@@ -21,6 +20,8 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/ayequill/#gh-light-mode-only)
 
 
+
+
 ### Languages, Resources and Tools:
 
 
@@ -38,10 +39,9 @@
 
 <img align="left" alt="bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="bulma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="bulma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 
 
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayequill&layout=compact&theme=dark" align="center" width="300"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=ayequill&layout=compact&theme=dark)
 
-
-
-
+[<img src="https://github-readme-stats.vercel.app/api?username=ayequill&show_icons=true&theme=dark" align="center" width="400"/>](https://github-readme-stats.vercel.app/api?username=ayequill&show_icons=true&theme=dark)
