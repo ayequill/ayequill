@@ -21,7 +21,7 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/ayequill/#gh-light-mode-only)
 
 
-### Languages Resources and Tools:
+### Languages, Resources and Tools:
 
 
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
