@@ -62,7 +62,7 @@
 <p><a href="https://www.buymeacoffee.com/ayequill"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayequill" /></a><a href="https://ko-fi.com/siawnic"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="siawnic" /></a></p><br><br>
 
 <div align="center" width="100%">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayequill&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=asl,html,css,scss&count_private=true&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayequill&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=asl,html,css&count_private=true&langs_count=10" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayequill&show_icons=true&locale=en" alt="ayequill" /></p>
 
