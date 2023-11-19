@@ -65,5 +65,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayequill&show_icons=true&locale=en" alt="ayequill" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayequill&" alt="ayequill" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayequill&theme=duskfox)](https://git.io/streak-stats)
 </div>
