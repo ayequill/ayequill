@@ -63,7 +63,5 @@
 <div align="center" width="100%">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayequill&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=asl,html,css&count_private=true&langs_count=10" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayequill&show_icons=true&locale=en" alt="ayequill" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayequill&theme=duskfox)](https://git.io/streak-stats)
 </div>
