@@ -3,7 +3,6 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/ayequill" target="blank"><img src="https://img.shields.io/twitter/follow/ayequill?logo=twitter&style=for-the-badge" alt="ayequill" /></a> </p>
 </div>
 
 <div align="center"
